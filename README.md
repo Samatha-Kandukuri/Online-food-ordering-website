@@ -1,4 +1,4 @@
-# Foodie Hub 🍔🍕
+# Online-food-ordering-website 🍔🍕
 
 A simple online food ordering web application built using HTML, CSS, and JavaScript.
 
@@ -18,7 +18,7 @@ A simple online food ordering web application built using HTML, CSS, and JavaScr
 Frontend Developer Mini Project
 
 ## Live Demo
-
+https://samatha-kandukuri.github.io/Online-food-ordering-website/
 
 ## Author
 Samatha Kandukuri
