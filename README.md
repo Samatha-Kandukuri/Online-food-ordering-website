@@ -18,7 +18,7 @@ A simple online food ordering frontend web application built using HTML, CSS, an
 Frontend Developer Mini Project
 
 ## Live Demo
-
+https://samatha-kandukuri.github.io/Online-food-ordering-website/
 
 ## Author
 Samatha Kandukuri
