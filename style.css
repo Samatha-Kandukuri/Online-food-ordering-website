@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+}
+
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+}
+
+.menu, .cart {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+button {
+    background: #e67e22;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #d35400;
+}
+
+.cart li {
+    margin-bottom: 10px;
+}
